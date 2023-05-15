@@ -9,7 +9,7 @@ name:  Wpf Continuous Integration
 on:
   push:
     branches:
-      - master
+      - main
       - 'maintenence/*'
   pull_request:
     branches:
